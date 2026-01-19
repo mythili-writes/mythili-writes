@@ -1,4 +1,12 @@
-<h1 align="center">Mythili R</h1>
+<div align="center">
+
+<h1 style="font-size:42px; letter-spacing:1px;">
+   Mythili R 
+</h1>
+
+
+</div>
+
 
 <p align="center">
   <strong>🎓 B.Tech IT Student</strong> • <strong>💻 Full-Stack Developer</strong> • <strong>🛡️ Cyber Security Enthusiast</strong>
